@@ -22,6 +22,11 @@
 
 ## 如何贡献
 
+
+
+https://www.haopintui.net/
+
+
 `hosts`等文件是由程序自动生成的，如要改变其内容，请修改`hosts-source`分支下的`hosts.yml`，具体说明见该分支下的`README`。
 
 ## 使用条款
